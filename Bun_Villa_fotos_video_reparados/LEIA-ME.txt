@@ -1,0 +1,6 @@
+Bunny Village — versão com mídia corrigida
+
+1. Mantenha index.html, a pasta media e a pasta assets juntas.
+2. O vídeo está em media/hospedagem.mp4 e o HTML já aponta para esse caminho.
+3. Para testar melhor, abra por um servidor local ou publique todos os arquivos juntos.
+4. Não abra o HTML dentro da prévia do ZIP/Drive, pois ela pode bloquear mídia local.
